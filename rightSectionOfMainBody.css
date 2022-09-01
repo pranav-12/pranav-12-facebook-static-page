@@ -1,0 +1,106 @@
+.Email{
+    margin: 15px;
+    margin-top: 0px;
+    border-radius: 6px;
+    height: 22px;
+    border: 1px solid #dddfe2;
+    padding: 14px 16px;
+    width: 330px;
+    font-size: 17px;
+    margin-left: 2px;
+}
+.Passw{
+    margin: 15px;
+    border-radius: 6px;
+    height: 22px;
+    border: 1px solid #dddfe2;
+    padding: 14px 16px;
+    width: 330px;
+    font-size: 17px;
+    margin-top: 0px;
+    margin-left: 2px;
+} 
+.Email:focus,.Passw:focus{
+    outline: none;
+    border: 1px solid #1877f2;
+}
+.Login{
+    margin: 15px;
+    border-radius: 6px;
+    height: 51px;
+    background-color: #166fe5;
+    padding: 14px 16px;
+    width: 363px;
+    margin-top: 0px;
+    border: 1px solid #365899;
+    border-color: #365899;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 2px;
+}
+.Login:hover{
+    background-color: #365899;
+    border-color: #3658FC;
+}
+.Forgotten-passw{
+    text-align: center;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    font-family:  Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    padding-left: 112px;
+}
+.Forgotten-passw:hover{
+    text-decoration: underline;
+}
+.line{
+    margin: 15px;
+    border-bottom: 1px solid #dddfe2;
+    font-size: 1px;
+    height: 8px;
+    margin-bottom: 8px;
+}
+.New{
+    margin: 16px;
+    border-radius: 6px;
+    height: 47px;
+    background-color: #42b72a;
+    width: 181px;
+    font-size: 17px;
+    border: none;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 85px;
+}
+
+.New:hover{
+    background-color: #1e7402bd;
+}
+.CreatePage-div{
+    float: right;
+    margin-top: 20px;
+    margin-right: 303px;
+}
+.Createpage-decor{
+    text-decoration: none;
+    color: black;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold  ;
+}
+.Createpage-decor:hover{
+text-decoration: underline;
+}
+.form{
+    background: rgb(255, 255, 255);
+    width: 368px;
+    height: 320px;
+    margin-left: 90px;
+    margin-top: 131px;
+    float: left;
+    border-radius: 8px;
+    padding: 15px;
+}
